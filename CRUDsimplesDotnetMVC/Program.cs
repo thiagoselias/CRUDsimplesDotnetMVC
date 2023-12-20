@@ -1,3 +1,6 @@
+using CRUDsimplesDotnetMVC.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace CRUDsimplesDotnetMVC
 {
     public class Program
@@ -8,6 +11,11 @@ namespace CRUDsimplesDotnetMVC
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddEntityFrameworkSqlServer().AddDbContext<Contexto>(
+                options => options.UseSqlServer(
+                builder.Configuration.GetConnectionString("DataBase")));
+
 
             var app = builder.Build();
 

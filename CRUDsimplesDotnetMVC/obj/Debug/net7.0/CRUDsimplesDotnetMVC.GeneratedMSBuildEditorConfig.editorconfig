@@ -16,6 +16,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\03431802192\Documents\Thiago Elias\Projetos\CRUDsimplesDotnetMVC\CRUDsimplesDotnetMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/03431802192/Documents/Thiago Elias/Projetos/CRUDsimplesDotnetMVC/CRUDsimplesDotnetMVC/Views/Departamentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/03431802192/Documents/Thiago Elias/Projetos/CRUDsimplesDotnetMVC/CRUDsimplesDotnetMVC/Views/Departamentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/03431802192/Documents/Thiago Elias/Projetos/CRUDsimplesDotnetMVC/CRUDsimplesDotnetMVC/Views/Departamentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/03431802192/Documents/Thiago Elias/Projetos/CRUDsimplesDotnetMVC/CRUDsimplesDotnetMVC/Views/Departamentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/03431802192/Documents/Thiago Elias/Projetos/CRUDsimplesDotnetMVC/CRUDsimplesDotnetMVC/Views/Departamentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/03431802192/Documents/Thiago Elias/Projetos/CRUDsimplesDotnetMVC/CRUDsimplesDotnetMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
